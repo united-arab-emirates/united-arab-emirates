@@ -5,12 +5,13 @@ body {
     align-items: center;
     text-align: center;
 }
-a {
+h1 {
   text-align: center;
   color: #0066ff;
   padding-top: 3em;
   transition-duration: .7s;
+  font-size: 2em;
 }
-a:hover {
+h1:hover {
   color: #000066;
 }
