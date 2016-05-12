@@ -16,7 +16,10 @@ a {
   transition-duration: .7s;
 }
 #Link2 {
-      color:red;
+      color: red;
+}
+#link2:hover {
+      color:#800000;
 }
 a:hover {
   color: #000066;
