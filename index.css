@@ -15,6 +15,9 @@ a {
   font-family: sans-serif;
   transition-duration: .7s;
 }
+#Link2 {
+      color:red;
+}
 a:hover {
   color: #000066;
 }
